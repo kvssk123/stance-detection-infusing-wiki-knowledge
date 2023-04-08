@@ -25,3 +25,5 @@ To get the result for VAST, zero/few-shot stance detection
 ```angular2html
 python run_vast.py
 ```
+## Error Analysis
+To perform error analysis, we have modified the Engine.py file and created a src_new folder. We performed the error analysis for Pstance dataset.
