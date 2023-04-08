@@ -1,6 +1,7 @@
 # stance-detection-infusing-wiki-knowledge
 ## Dataset
-
+In the dataset folder we have the three datasets, Pstance, Covid 19 and Vast.
+For the reproduction, we have used Pstance and Vast datasets
 ## Run
 To get the result for PStance, target-specific stance detection, Biden
 ```angular2html
