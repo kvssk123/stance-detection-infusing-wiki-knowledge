@@ -1,4 +1,5 @@
 # stance-detection-infusing-wiki-knowledge
+To reproduce the results, all the folders and files above should be in the same directory
 ## Dataset
 In the dataset folder we have the three datasets, Pstance, Covid 19 and Vast.
 For the reproduction, we have used Pstance and Vast datasets
