@@ -45,6 +45,9 @@ To get the result for stay at home Covid data on XLM R
 ```angular2html
 python run_covid_home_xlm_r.py
 ```
+## Running on translated_datasets
+To run on translated_datasets, first download the respective train,test and val files from translated_datasets folder and replace the existing train,test and val files in data folder.
+For example, to run VAST on German data, first download the train,test and dev files from german folder in translated_datasets folder and replace them with train,test and dev files in data folder
 ## Error Analysis
 To perform error analysis, we have modified the Engine.py file and created a src_error_analysis folder. We performed the error analysis for PStance, target-specific stance detection, Biden. To get the error analysis results, run the following command:
 ```angular2html
