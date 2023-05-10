@@ -1,8 +1,10 @@
 # stance-detection-infusing-wiki-knowledge
 To reproduce the results, all the folders and files above should be in the same directory
 ## Dataset
-In the dataset folder we have the three datasets, Pstance, Covid 19 and Vast.
-For the reproduction, we have used Pstance and Vast datasets
+In the data folder we have the three datasets, Pstance, Covid 19 and Vast.
+The new dataset COVID CQ is also in the data/covid19-stance a hcq_train, hcq_test and hcq_val
+translated_datasets contains all the translated datasets for VAST and Covid 19 tweets data.
+
 ## Run
 To get the result for PStance, target-specific stance detection, Biden
 ```angular2html
