@@ -10,7 +10,7 @@ if __name__ == '__main__':
                                                       'biden,bernie', 'biden,trump',
                                                       'trump,bernie', 'trump,biden',
                                                       'face_masks', 'fauci',
-                                                      'stay_at_home_orders', 'school_closures', ''), default='bernie',
+                                                      'stay_at_home_orders', 'school_closures','hcq', ''), default='bernie',
                         help='the topic to use')
     parser.add_argument('--batch_size', type=int, default=32)
     parser.add_argument('--epochs', type=int, default=100)
