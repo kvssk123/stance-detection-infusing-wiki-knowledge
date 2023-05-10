@@ -27,7 +27,9 @@ To get the result for VAST, zero/few-shot stance detection
 python run_vast.py
 ```
 ## Error Analysis
-To perform error analysis, we have modified the Engine.py file and created a src_new folder. We performed the error analysis for PStance, target-specific stance detection, Biden. To get the error analysis results, run the following command:
+To perform error analysis, we have modified the Engine.py file and created a src_error_analysis folder. We performed the error analysis for PStance, target-specific stance detection, Biden. To get the error analysis results, run the following command:
 ```angular2html
 python run_err_biden.py
 ```
+## Running XLM R
+To run XLM R, we have modified the codes and created a src_xlm_r folder. We
