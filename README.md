@@ -23,7 +23,14 @@ To get the result for PStance, cross-target stance detection, Biden $\rightarrow
 ```angular2html
 python run_pstance_biden2sanders.py
 ```
-
+To get the result for COVID19-Stance, target-specific stance detection, face mask
+```angular2html
+python run_covid_mask.py
+```
+To get the result for COVID19-Stance, target-specific stance detection, HCQ
+```angular2html
+python run_covid_hcq.py
+```
 To get the result for VAST, zero/few-shot stance detection
 ```angular2html
 python run_vast.py
